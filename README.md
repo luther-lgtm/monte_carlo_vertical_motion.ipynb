@@ -4,8 +4,6 @@
 
 🔗 **[Run the simulation in Google Colab ](https://colab.research.google.com/drive/12u_qRsGwf-Q0_YUudEXgws8Nn-L8Y8w3)**
 
-🔗 **[View the GitHub repository](https://github.com/luther-lgtm/monte_carlo_vertical_motion.ipynb/tree/main)**
-
 
 
 
